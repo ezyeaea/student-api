@@ -4,7 +4,7 @@ exports.notFound = (req, res) => {
     message: "Ийм endpoint байхгүй"
   });
 };
-
+//medehgua
 exports.errorHandler = (err, req, res, next) => {
   if (err.type === "entity.parse.failed") {
     return res.status(400).json({
