@@ -1,12 +1,12 @@
-# Student REST API
+# Student REST API:
 
 Оюутны мэдээллийг удирдах (CRUD), шүүлт хийх, хуудаслах (Pagination) болон алдаа боловсруулах боломжтой Express.js дээр суурилсан REST API.
 
 ---
 
-## 🚀 Ажиллуулах заавар
+## Ажиллуулах заавар:
 
-### 1. Төслийн хамаарлуудыг суулгах
+### 1. Төслийн хамаарлуудыг суулгах:
 ```bash
 npm install
 2. Серверийг ажиллуулах
@@ -20,7 +20,7 @@ bash
 npm start
 Сервер http://localhost:3000 хаяг дээр ажиллана.
 
-📌 API Endpoint-уудын жагсаалт
+ API Endpoint-уудын жагсаалт
 Үндсэн суваг: http://localhost:3000/api/v1
 
 Төрөл	Endpoint	Тайлбар	Params / Request Body
